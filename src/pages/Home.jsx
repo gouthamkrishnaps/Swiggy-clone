@@ -10,8 +10,8 @@ function Home() {
     <div className='container mt-4'>
       <h5>Best offers for you</h5>
       <AddBanner/>
-      <h5 className='mt-2'>Hey you, what's on your mind?</h5>
-      <Resturent/>
+      {/* <h5 className='mt-2'>Hey you, what's on your mind?</h5>
+      <Resturent/> */}
       <hr />
       <h5 className='fw-bolder'>Top restaurant chains in Kochi</h5>
       <Buttons/>
